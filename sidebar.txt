@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ajp:home|Door43 (ajp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ajp|d43-ajp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ajp/archive/master.zip|d43-ajp.zip]]
+
+**Recent Changes**
+{{changes>ns = ajp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ajp|Ethnologue data]]
+
